@@ -1,5 +1,5 @@
 # ImgurLoader
- Random Imgur image downloader in just 56 lines of code
+ Imgur random images downloader
  ![Screenshot](https://user-images.githubusercontent.com/93650707/150955911-cacc1abf-f180-41f2-ac84-3e5a869ec59e.png)
 
 # How to use
