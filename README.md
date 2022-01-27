@@ -7,5 +7,8 @@
  
 # Note
  This program is made **ONLY for educational purposes**. I am not responsible for any your actions.
- It is downloading only .png files.
- All images is saved in ```images``` directory.
+ 
+ All images is saved in ```images_png``` and ```images_jpg``` directories.
+
+# Changelog
+ v.1.1.0 - Added .JPG downloading
